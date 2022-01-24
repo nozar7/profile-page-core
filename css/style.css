@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.caja {
+    background-color: darkslateblue;
+    height: 100px;
+    width: 60%;
+    margin: 100px auto 0px;
+    left: 20px;
+    border: 1px solid darkslateblue;
+}
+
+.caja2 {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid gray;
+    padding-bottom: 20px;
+    
+}
+
+.img-user {
+    height: 100px;
+    position: absolute;
+    top: -20px;
+    
+}
+
+.img-map {
+    height: 20px;
+}
+
+.img-gear {
+    height: 25px;
+}
+
+.first-block {
+    position: relative;
+    left: 20px;
+}
+
+.second-block {
+    margin-left: 20px;
+}
+
+
+.first-block h1 {
+    padding-top: 100px;
+}
+
+.second-block h2 {
+    display: inline-block;
+}
+
+.third-block {
+    padding-top: 10px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.third-block a {
+    margin-left: 5px;
+}
+
+.caja2 p {
+    margin-left: 20px;
+}

@@ -1,0 +1,63 @@
+#contenedor {
+    display: flex;
+}
+
+#app {
+    flex:2;
+}
+
+#app2 {
+    flex: 1;
+    width: 90%;
+}
+
+.users {
+    margin: 100px 50px 0 0;
+    
+}
+
+.connection {
+    background-color: cornflowerblue;
+    height: 60px;
+    color: darkslateblue;
+    display: flex;
+    align-items: center;
+    
+}
+
+.connection img {
+    height: 30px;
+    margin: auto 10px;
+
+}
+
+.connection2 {
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.connection2 h4 {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.connection2 a {
+    margin-left: 15px;
+}
+
+.img-userr {
+    height: 20px;
+    margin-left: 15px;
+}
+
+.img-check {
+    height: 20px;
+    margin-left: 15px;
+}
+
+.img-delete {
+    height: 20px;
+    margin-left: 15px;
+}
+
